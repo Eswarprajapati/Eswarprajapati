@@ -1,10 +1,15 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="330" viewBox="0 0 1200 330" role="img" aria-label="Eswar Kumar Prajapati, Data Engineer, Azure and AWS cloud data platforms">
-<defs><linearGradient id="g" x2="1" y2="1"><stop stop-color="#10263f"/><stop offset="1" stop-color="#075c77"/></linearGradient></defs>
-<rect width="1200" height="330" rx="18" fill="url(#g)"/>
-<g fill="none" stroke="#39d4cb" opacity=".35" stroke-width="2"><path d="M850 0v80h90v90h120v160M940 0v45h160v135h100M780 330v-65h80v-65h120"/><circle cx="940" cy="80" r="7"/><circle cx="1060" cy="170" r="7"/><circle cx="860" cy="200" r="7"/></g>
-<rect x="48" y="45" width="9" height="240" rx="4" fill="#39d4cb"/>
-<g font-family="Segoe UI,Arial,sans-serif"><text x="82" y="87" font-size="19" font-weight="700" letter-spacing="3" fill="#71efe0">CLOUD DATA PLATFORMS</text>
-<text x="82" y="150" font-size="48" font-weight="700" fill="white">Eswar Kumar Prajapati</text>
-<text x="82" y="197" font-size="29" fill="#d7eafb">Data Engineer | Azure &amp; AWS</text>
-<text x="82" y="244" font-size="21" fill="#b8d6e8">Lakehouse engineering  /  Data integration  /  DevOps</text>
-<text x="82" y="280" font-size="18" fill="#71efe0">INDIA  ·  OPEN TO RELOCATION &amp; INTERNATIONAL OPPORTUNITIES</text></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="360" viewBox="0 0 1000 360" role="img" aria-label="Eswar Kumar Prajapati, Data Engineer, Azure and AWS, open to opportunities in India and internationally">
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0d1830"/><stop offset=".6" stop-color="#173454"/><stop offset="1" stop-color="#183447"/></linearGradient><linearGradient id="line"><stop stop-color="#55c6ff"/><stop offset="1" stop-color="#67e8cf"/></linearGradient></defs>
+<rect width="1000" height="360" rx="18" fill="url(#bg)"/>
+<g stroke="#345573" fill="none" opacity=".4"><path d="M560 0v360M610 0v360M660 0v360M710 0v360M760 0v360M810 0v360M860 0v360M910 0v360M960 0v360M560 40h440M560 90h440M560 140h440M560 190h440M560 240h440M560 290h440"/></g>
+<rect x="40" y="40" width="44" height="4" rx="2" fill="#67e8cf"/>
+<g font-family="Segoe UI,Arial,sans-serif">
+<text x="99" y="48" font-size="15" font-weight="700" letter-spacing="2.5" fill="#8dd9ef">DATA ENGINEERING PORTFOLIO</text>
+<text x="40" y="112" font-size="41" font-weight="700" fill="#fff">Eswar Kumar Prajapati</text>
+<text x="40" y="160" font-size="29" font-weight="600" fill="#67e8cf">Data Engineer</text>
+<text x="40" y="198" font-size="20" fill="#d8e5f2">From raw data to reliable analytics.</text>
+<g font-size="15" font-weight="700"><rect x="40" y="225" width="99" height="34" rx="17" fill="#164d73"/><text x="62" y="247" fill="#8edcff">AZURE</text><rect x="151" y="225" width="83" height="34" rx="17" fill="#624127"/><text x="174" y="247" fill="#ffcf95">AWS</text><rect x="246" y="225" width="138" height="34" rx="17" fill="#25495c"/><text x="266" y="247" fill="#a6eedb">DATABRICKS</text><rect x="396" y="225" width="117" height="34" rx="17" fill="#393a63"/><text x="417" y="247" fill="#d5c9ff">DEVOPS</text></g>
+<text x="40" y="308" font-size="16" fill="#b3c6d8">INDIA  /  OPEN TO RELOCATION &amp; INTERNATIONAL ROLES</text>
+<g font-weight="600"><rect x="676" y="58" width="270" height="61" rx="12" fill="#173a5a" stroke="#4baee1"/><text x="699" y="84" font-size="13" fill="#8edcff">01 / INGEST</text><text x="699" y="106" font-size="18" fill="white">ADF · S3 · Events</text><rect x="676" y="146" width="270" height="61" rx="12" fill="#1b444c" stroke="#52c7b0"/><text x="699" y="172" font-size="13" fill="#83e8d1">02 / TRANSFORM</text><text x="699" y="194" font-size="18" fill="white">PySpark · Delta Lake</text><rect x="676" y="234" width="270" height="61" rx="12" fill="#36344e" stroke="#a394df"/><text x="699" y="260" font-size="13" fill="#c9baff">03 / ORCHESTRATE &amp; DELIVER</text><text x="699" y="282" font-size="18" fill="white">Airflow · Terraform · CI/CD</text></g></g>
+<path d="M811 119v27m-5-7 5 7 5-7M811 207v27m-5-7 5 7 5-7" fill="none" stroke="#67e8cf" stroke-width="2"/>
+</svg>

@@ -1,33 +1,79 @@
-<p align="center"><img src="assets/header.svg" width="100%" alt="Eswar Kumar Prajapati — Data Engineer, Azure and AWS, lakehouse engineering, data integration and DevOps. India, open to relocation and international opportunities." /></p>
+<p align="center"><img src="assets/header.svg" width="100%" alt="Eswar Kumar Prajapati | Data Engineer | Azure, AWS, Databricks and DevOps | India, open to relocation and international opportunities" /></p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/prajapati-eswar-kumar-396123170"><img alt="Connect on LinkedIn" src="https://img.shields.io/badge/LinkedIn-Let%27s_connect-0A66C2?style=for-the-badge" /></a>
-  <img alt="Target roles: Data Engineer and Senior Data Engineer" src="https://img.shields.io/badge/OPEN_TO-DATA_ENGINEER_%2F_SENIOR_ROLES-087F8C?style=for-the-badge" />
+<a href="mailto:parjapateswar1@gmail.com"><img alt="Email Eswar" src="https://img.shields.io/badge/EMAIL-Contact_me-1674AE?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" /></a>
+<a href="tel:+917981023756"><img alt="Call Eswar" src="https://img.shields.io/badge/PHONE-Let%27s_talk-168570?style=for-the-badge" /></a>
+<a href="https://www.linkedin.com/in/prajapati-eswar-kumar-396123170"><img alt="Connect on LinkedIn" src="https://img.shields.io/badge/LINKEDIN-Connect-0A66C2?style=for-the-badge" /></a>
 </p>
 
-I build reliable cloud data pipelines and analytics platforms, with professional data-engineering experience since **November 2021**. Currently at **sew.ai**, previously **Infosys**. My work spans Azure Databricks and ADF integration, Spark tuning, Airflow orchestration, Terraform provisioning, Azure DevOps delivery, database migration, and AWS Lambda processing of notification CSV data stored in S3.
+<p align="center"><b><a href="mailto:parjapateswar1@gmail.com">parjapateswar1@gmail.com</a> &nbsp; · &nbsp; <a href="tel:+917981023756">+91 79810 23756</a></b><br/>India · Open to relocation · Data Engineer / Senior Data Engineer opportunities</p>
 
-**Based in India · Open to relocation and opportunities in India or abroad.**
+<p align="center"><a href="#featured-projects">Projects</a> &nbsp; / &nbsp; <a href="#technical-toolkit">Technical toolkit</a> &nbsp; / &nbsp; <a href="#experience">Experience</a> &nbsp; / &nbsp; <a href="#contact">Contact</a></p>
 
-### What I bring to a data platform team
+---
 
-| 🟦 Lakehouse & integration | 🟩 DevOps & reliability |
-| --- | --- |
-| PySpark and Delta Lake pipelines; medallion architecture; Unity Catalog governance | Terraform infrastructure as code; Azure DevOps CI/CD; repeatable environment configuration |
-| ADF ingestion from Azure SQL and PostgreSQL, integrated with Databricks | Airflow orchestration on Docker/Kubernetes; data validation and cleansing |
-| Streaming data processing; Spark partitioning and cluster tuning | SQL optimization; low-downtime PostgreSQL migration; analytics-ready data for Power BI |
+### Engineering data platforms from ingestion to delivery
 
-### Technology toolkit
+I build cloud data pipelines and analytics platforms, with professional data-engineering experience since **November 2021**. Currently a **Data Engineer at sew.ai**, previously **Infosys**. My work connects **Databricks and ADF integration**, **Spark performance**, **Airflow orchestration**, **Terraform and Azure DevOps**, and **AWS Lambda/S3 notification data processing**.
+
+**Lakehouse engineering** · **Data integration** · **Streaming** · **DevOps & automation** · **Data reliability**
+
+## Featured projects
+
+Explore the code, architecture and engineering decisions. These public portfolio implementations use synthetic data; each README documents its tests and cloud setup requirements.
+
+<a href="https://github.com/Eswarprajapati/databricks-retail-lakehouse"><img src="assets/databricks-retail-lakehouse.svg" width="100%" alt="Databricks Retail Lakehouse: Revision-aware orders, quarantine and late-cancellation handling. Stack: PySpark / Delta Lake / Unity Catalog. Open the repository." /></a>
+
+<a href="https://github.com/Eswarprajapati/azure-devops-data-delivery"><img src="assets/azure-devops-data-delivery.svg" width="100%" alt="Azure DevOps Data Delivery: Tested data jobs, reproducible releases and artifact integrity. Stack: Azure Pipelines / Python / CI/CD. Open the repository." /></a>
+
+<a href="https://github.com/Eswarprajapati/aws-notification-pipeline"><img src="assets/aws-notification-pipeline.svg" width="100%" alt="AWS Notification Pipeline: Validate CSV events and produce replay-safe processing artifacts. Stack: AWS Lambda / S3 / Python / SAM. Open the repository." /></a>
+
+<a href="https://github.com/Eswarprajapati/airflow-backfill-pipeline"><img src="assets/airflow-backfill-pipeline.svg" width="100%" alt="Airflow Backfill Pipeline: Safe historical reruns with transactional partition replacement. Stack: Airflow / Python / SQLite / Docker. Open the repository." /></a>
+
+<a href="https://github.com/Eswarprajapati/dbtproject"><img src="assets/dbtproject.svg" width="100%" alt="Retail Analytics with dbt: Typed staging, tested revenue marts and customer history. Stack: dbt Core / DuckDB / SQL. Open the repository." /></a>
+
+<a href="https://github.com/Eswarprajapati/Terraform-input-files"><img src="assets/Terraform-input-files.svg" width="100%" alt="Azure Platform Infrastructure: Parameterized provisioning with provider mocks and CI validation. Stack: Terraform / AzureRM / Azure DevOps. Open the repository." /></a>
+
+**Also explore:** [Data Contract Monitor](https://github.com/Eswarprajapati/data-contract-monitor) — configurable schema, uniqueness, range and freshness checks with an audit trail.
+
+## Technical toolkit
+
+**Lakehouse & integration**
 
 <p>
-<img alt="Azure" src="https://img.shields.io/badge/Azure-0078D4?style=flat-square" />
-<img alt="Databricks" src="https://img.shields.io/badge/Databricks-DC362E?style=flat-square" />
-<img alt="Azure Data Factory" src="https://img.shields.io/badge/Azure_Data_Factory-0078D4?style=flat-square" />
-<img alt="Azure DevOps" src="https://img.shields.io/badge/Azure_DevOps-0078D4?style=flat-square" />
-<img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=flat-square" />
-<img alt="Apache Kafka" src="https://img.shields.io/badge/Apache_Kafka-233348?style=flat-square" />
-<img alt="Terraform" src="https://img.shields.io/badge/Terraform-6848B6?style=flat-square" />
+<img alt="Databricks" src="https://img.shields.io/badge/Databricks-DC362E?style=for-the-badge&amp;logo=databricks&amp;logoColor=white" />
+<img alt="Apache Spark" src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&amp;logo=apachespark&amp;logoColor=white" />
+<img alt="Azure Data Factory" src="https://img.shields.io/badge/Azure_Data_Factory-0078D4?style=for-the-badge" />
+<img alt="Delta Lake" src="https://img.shields.io/badge/Delta_Lake-087F8C?style=for-the-badge" />
+<img alt="Unity Catalog" src="https://img.shields.io/badge/Unity_Catalog-184D68?style=for-the-badge" />
 </p>
+
+**Cloud, streaming & DevOps**
+
+<p>
+<img alt="Microsoft Azure" src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge" />
+<img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge" />
+<img alt="Apache Kafka" src="https://img.shields.io/badge/Kafka-233348?style=for-the-badge&amp;logo=apachekafka&amp;logoColor=white" />
+<img alt="Apache Airflow" src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&amp;logo=apacheairflow&amp;logoColor=white" />
+<img alt="Azure DevOps" src="https://img.shields.io/badge/Azure_DevOps-0078D4?style=for-the-badge" />
+<img alt="Terraform" src="https://img.shields.io/badge/Terraform-6848B6?style=for-the-badge&amp;logo=terraform&amp;logoColor=white" />
+<img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&amp;logo=docker&amp;logoColor=white" />
+<img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&amp;logo=kubernetes&amp;logoColor=white" />
+</p>
+
+**Languages & analytics**
+
+<p>
+<img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&amp;logo=python&amp;logoColor=white" />
+<img alt="PySpark" src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge" />
+<img alt="SQL" src="https://img.shields.io/badge/SQL-205872?style=for-the-badge" />
+<img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&amp;logo=postgresql&amp;logoColor=white" />
+<img alt="Snowflake" src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&amp;logo=snowflake&amp;logoColor=white" />
+<img alt="Power BI" src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&amp;logoColor=black" />
+</p>
+
+<details>
+<summary><b>View the complete skill set</b></summary>
 
 | Area | Tools and skills |
 | --- | --- |
@@ -37,42 +83,43 @@ I build reliable cloud data pipelines and analytics platforms, with professional
 | Streaming & orchestration | Apache Kafka · Streaming data processing · Apache Airflow · ETL/ELT · Medallion architecture |
 | DevOps & automation | Azure DevOps · Terraform · GitHub · CI/CD · Docker · Kubernetes · Infrastructure as code |
 | Databases & analytics | PostgreSQL · Azure SQL · SQL Server · Oracle · MongoDB · Power BI |
-| Performance & quality | Spark tuning · Partitioning · Cluster optimization · SQL tuning · Validation · Cleansing · Database migration |
+| Performance & quality | Spark tuning · Partitioning · Cluster optimization · SQL tuning · Validation · Cleansing · Low-downtime database migration |
 
-### Featured engineering projects
+</details>
 
-Public implementations with synthetic data, inspired by my engineering experience. Each README explains the workload, design decisions, tests, and deployment boundaries.
+### Azure Data Factory in the platform
 
-<table>
-<tr>
-<td width="50%" valign="top"><h3>🟦 Databricks Retail Lakehouse</h3><p>Turn revisioned orders and late cancellations into trustworthy daily revenue. PySpark validation, quarantine, Delta MERGE and Unity Catalog tables.</p><p><b>PySpark · Delta Lake · Databricks bundle</b></p><a href="https://github.com/Eswarprajapati/databricks-retail-lakehouse">Explore code & architecture →</a></td>
-<td width="50%" valign="top"><h3>🟩 Azure DevOps Data Delivery</h3><p>Test a data job, build a reproducible release, verify its integrity, and promote a versioned artifact through Azure Pipelines.</p><p><b>Azure DevOps · Python · CI/CD</b></p><a href="https://github.com/Eswarprajapati/azure-devops-data-delivery">Explore pipeline & release flow →</a></td>
-</tr><tr>
-<td valign="top"><h3>🟦 AWS Notification Pipeline</h3><p>Validate notification CSVs, isolate bad records, and generate replay-safe S3 output artifacts through a Lambda adapter.</p><p><b>Python · AWS Lambda · S3 · SAM</b></p><a href="https://github.com/Eswarprajapati/aws-notification-pipeline">Explore event processing →</a></td>
-<td valign="top"><h3>🟩 Airflow Backfill Pipeline</h3><p>Reprocess historical daily partitions without duplicating business results. Validation, retries, and an Airflow orchestration adapter.</p><p><b>Airflow · Python · SQLite · Docker</b></p><a href="https://github.com/Eswarprajapati/airflow-backfill-pipeline">Explore reruns & recovery →</a></td>
-</tr><tr>
-<td valign="top"><h3>🟦 Retail Analytics with dbt</h3><p>Build typed staging, tested revenue marts, and customer history snapshots. A runnable SQL analytics example.</p><p><b>dbt Core · DuckDB · SQL</b></p><a href="https://github.com/Eswarprajapati/dbtproject">Explore models & data tests →</a></td>
-<td valign="top"><h3>🟩 Azure Platform Infrastructure</h3><p>Parameterize an Azure Function platform and validate infrastructure with Terraform provider mocks and delivery pipelines.</p><p><b>Terraform · AzureRM · Azure DevOps</b></p><a href="https://github.com/Eswarprajapati/Terraform-input-files">Explore infrastructure & checks →</a></td>
-</tr>
-</table>
-
-**Supporting project:** [Data Contract Monitor](https://github.com/Eswarprajapati/data-contract-monitor) — schema, freshness, uniqueness, range checks, and a quality audit trail.
-
-### Azure Data Factory in the bigger picture
-
-My ADF experience includes ingestion from **Azure SQL and PostgreSQL Flexible Server**, with Databricks transformations across bronze, silver and gold layers. In the portfolio architecture, ADF handles source connectivity and ingestion dependencies, Databricks handles Delta transformations, and Azure DevOps handles tested releases. [Read the ADF integration design →](https://github.com/Eswarprajapati/databricks-retail-lakehouse/blob/main/docs/adf-integration.md)
-
-Kafka is included in my streaming toolkit. The public projects above demonstrate batch/event processing; they do not currently implement a Kafka broker pipeline. Cloud notebooks, ADF resources and Azure release promotion require a configured workspace/account; their READMEs distinguish tested code from cloud setup.
+My ADF experience includes ingestion from **Azure SQL and PostgreSQL Flexible Server**, integrated with Databricks across bronze, silver and gold layers. ADF manages source connectivity and ingestion dependencies; Databricks transforms the data; Azure DevOps delivers tested releases. [Read the integration design →](https://github.com/Eswarprajapati/databricks-retail-lakehouse/blob/main/docs/adf-integration.md)
 
 <details>
-<summary><b>Background, education & recognition</b></summary>
+<summary><b>Portfolio implementation scope</b></summary>
 
-- **sew.ai · Data Engineer · May 2026–present:** utility/energy data platforms, Databricks, medallion architecture, Spark optimization and analytics delivery.
-- **Infosys · Data Engineer · November 2021–April 2026:** ETL/ELT, ADF/Databricks integration, Airflow, Terraform/Azure DevOps, PostgreSQL migration and SQL optimization.
+The toolkit reflects a broader skill set than these examples implement. Kafka is included in the streaming toolkit; these repositories do not implement a Kafka broker pipeline. Managed Databricks notebooks, ADF resources and Azure release promotion need a configured workspace/account. Repository READMEs describe verified code and cloud setup boundaries. No employer code or customer data is published.
+
+</details>
+
+## Experience
+
+**sew.ai · Data Engineer · May 2026–present**  
+Utility/energy data platforms · Databricks and medallion architecture · Spark tuning · Analytics delivery
+
+**Infosys · Data Engineer · November 2021–April 2026**  
+ETL/ELT and ADF integration · Airflow on Docker/Kubernetes · Terraform and Azure DevOps · PostgreSQL migration and SQL optimization
+
+<details>
+<summary><b>Education, recognition & internal certifications</b></summary>
+
 - **B.Tech, Mechanical Engineering:** Aditya Institute of Technology and Management · 84.3% · Silver Medal (2022).
 - **Infosys internal certifications:** Databricks Associate, Azure Fundamentals, MySQL Associate, Global Agile Developer.
 - **Recognition:** Infosys Insta Awards (2022–2025), Business Ninja 2025, 7th place in the Beyond the Prompt Hackathon (Microsoft & Infosys).
 
 </details>
 
-**Let’s connect:** [LinkedIn](https://www.linkedin.com/in/prajapati-eswar-kumar-396123170) · Data Engineer and Senior Data Engineer opportunities in India and internationally.
+## Contact
+
+Interested in a data engineer who connects pipelines, platforms and delivery? I’m open to **Data Engineer and Senior Data Engineer roles in India and internationally**, including relocation.
+
+- **Email:** [parjapateswar1@gmail.com](mailto:parjapateswar1@gmail.com)
+- **Phone:** [+91 79810 23756](tel:+917981023756)
+- **LinkedIn:** [Eswar Kumar Prajapati](https://www.linkedin.com/in/prajapati-eswar-kumar-396123170)
+- **Location:** India · Open to relocation
