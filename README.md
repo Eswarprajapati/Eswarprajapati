@@ -1,4 +1,4 @@
-<p align="center"><img src="assets/header.svg" width="100%" alt="Eswar Kumar Prajapati | Data Engineer | Azure, AWS, Databricks and DevOps | India, open to relocation and international opportunities" /></p>
+<p align="center"><img src="assets/header.svg" width="100%" alt="Eswar Kumar Prajapati | Data Engineer | Azure, AWS, Databricks, Snowflake and DevOps | India, open to relocation and international opportunities" /></p>
 
 <p align="center">
 <a href="mailto:parjapateswar1@gmail.com"><img alt="Email Eswar" src="https://img.shields.io/badge/EMAIL-Contact_me-1674AE?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" /></a>
@@ -14,9 +14,15 @@
 
 ### Engineering data platforms from ingestion to delivery
 
-I build cloud data pipelines and analytics platforms, with professional data-engineering experience since **November 2021**. Currently a **Data Engineer at sew.ai**, previously **Infosys**. My work connects **Databricks and ADF integration**, **Spark performance**, **Airflow orchestration**, **Terraform and Azure DevOps**, and **AWS Lambda/S3 notification data processing**.
+I build cloud data pipelines and analytics platforms, with professional data-engineering experience since **November 2021**. Currently a **Data Engineer at sew.ai**, previously **Infosys**. My work connects **SFTP and MongoDB ingestion through Azure Data Factory**, **Python, SQL and PySpark transformations into Delta Lake under Unity Catalog**, **Snowflake and SQL performance optimization**, **Airflow orchestration**, **Terraform and Azure DevOps**, and **AWS Lambda/S3 notification data processing**.
 
-**Lakehouse engineering** · **Data integration** · **Streaming** · **DevOps & automation** · **Data reliability**
+**Lakehouse engineering** · **Data integration** · **Snowflake & warehousing** · **Streaming** · **DevOps & automation** · **Data reliability**
+
+- **Ingestion:** SFTP servers, MongoDB, Azure SQL and PostgreSQL through ADF; AWS S3/event processing.
+- **Transformation & governance:** Python, SQL and PySpark; Delta Lake tables governed through Unity Catalog in Databricks.
+- **Warehousing & analytics:** Snowflake query optimization, PostgreSQL/SQL Server tuning, and curated data for Power BI.
+- **Orchestration:** Apache Airflow and ADF pipeline dependencies; the portfolio also demonstrates a Databricks Jobs bundle.
+- **Automation & delivery:** Terraform infrastructure as code, Azure DevOps and CI/CD; Docker and Kubernetes for workload execution.
 
 ## Featured projects
 
@@ -38,7 +44,7 @@ Explore the code, architecture and engineering decisions. These public portfolio
 
 ## Technical toolkit
 
-**Lakehouse & integration**
+**Data integration, lakehouse & warehousing**
 
 <p>
 <img alt="Databricks" src="https://img.shields.io/badge/Databricks-DC362E?style=for-the-badge&amp;logo=databricks&amp;logoColor=white" />
@@ -46,6 +52,9 @@ Explore the code, architecture and engineering decisions. These public portfolio
 <img alt="Azure Data Factory" src="https://img.shields.io/badge/Azure_Data_Factory-0078D4?style=for-the-badge" />
 <img alt="Delta Lake" src="https://img.shields.io/badge/Delta_Lake-087F8C?style=for-the-badge" />
 <img alt="Unity Catalog" src="https://img.shields.io/badge/Unity_Catalog-184D68?style=for-the-badge" />
+<img alt="Snowflake" src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&amp;logo=snowflake&amp;logoColor=white" />
+<img alt="SFTP ingestion" src="https://img.shields.io/badge/SFTP_Ingestion-205872?style=for-the-badge" />
+<img alt="MongoDB ingestion" src="https://img.shields.io/badge/MongoDB_Ingestion-176B3A?style=for-the-badge&amp;logo=mongodb&amp;logoColor=white" />
 </p>
 
 **Cloud, streaming & DevOps**
@@ -79,6 +88,7 @@ Explore the code, architecture and engineering decisions. These public portfolio
 | --- | --- |
 | Languages | Python · PySpark · SQL · PowerShell |
 | Azure & lakehouse | Azure Databricks · Azure Data Factory · Synapse · Delta Lake · Unity Catalog |
+| Ingestion sources | SFTP servers · MongoDB · Azure SQL · PostgreSQL · AWS S3 · Event data |
 | AWS & warehousing | AWS Lambda · S3 · Redshift · Snowflake · Data warehousing |
 | Streaming & orchestration | Apache Kafka · Streaming data processing · Apache Airflow · ETL/ELT · Medallion architecture |
 | DevOps & automation | Azure DevOps · Terraform · GitHub · CI/CD · Docker · Kubernetes · Infrastructure as code |
@@ -89,7 +99,7 @@ Explore the code, architecture and engineering decisions. These public portfolio
 
 ### Azure Data Factory in the platform
 
-My ADF experience includes ingestion from **Azure SQL and PostgreSQL Flexible Server**, integrated with Databricks across bronze, silver and gold layers. ADF manages source connectivity and ingestion dependencies; Databricks transforms the data; Azure DevOps delivers tested releases. [Read the integration design →](https://github.com/Eswarprajapati/databricks-retail-lakehouse/blob/main/docs/adf-integration.md)
+My ADF experience includes ingestion from **SFTP servers, MongoDB, Azure SQL and PostgreSQL Flexible Server**, integrated with Databricks across bronze, silver and gold layers. **Python, SQL and PySpark** transform the landed data into **Delta Lake tables governed through Unity Catalog**. ADF manages source connectivity and ingestion dependencies; Databricks transforms the data; Azure DevOps delivers tested releases. [Read the integration design →](https://github.com/Eswarprajapati/databricks-retail-lakehouse/blob/main/docs/adf-integration.md)
 
 <details>
 <summary><b>Portfolio implementation scope</b></summary>
@@ -104,7 +114,7 @@ The toolkit reflects a broader skill set than these examples implement. Kafka is
 Utility/energy data platforms · Databricks and medallion architecture · Spark tuning · Analytics delivery
 
 **Infosys · Data Engineer · November 2021–April 2026**  
-ETL/ELT and ADF integration · Airflow on Docker/Kubernetes · Terraform and Azure DevOps · PostgreSQL migration and SQL optimization
+ETL/ELT and ADF integration · Airflow on Docker/Kubernetes · Terraform and Azure DevOps · PostgreSQL migration · SQL optimization across PostgreSQL, SQL Server and Snowflake
 
 <details>
 <summary><b>Education, recognition & internal certifications</b></summary>
