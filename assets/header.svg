@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="330" viewBox="0 0 1200 330" role="img" aria-label="Eswar Kumar Prajapati, Data Engineer, Azure and AWS cloud data platforms">
+<defs><linearGradient id="g" x2="1" y2="1"><stop stop-color="#10263f"/><stop offset="1" stop-color="#075c77"/></linearGradient></defs>
+<rect width="1200" height="330" rx="18" fill="url(#g)"/>
+<g fill="none" stroke="#39d4cb" opacity=".35" stroke-width="2"><path d="M850 0v80h90v90h120v160M940 0v45h160v135h100M780 330v-65h80v-65h120"/><circle cx="940" cy="80" r="7"/><circle cx="1060" cy="170" r="7"/><circle cx="860" cy="200" r="7"/></g>
+<rect x="48" y="45" width="9" height="240" rx="4" fill="#39d4cb"/>
+<g font-family="Segoe UI,Arial,sans-serif"><text x="82" y="87" font-size="19" font-weight="700" letter-spacing="3" fill="#71efe0">CLOUD DATA PLATFORMS</text>
+<text x="82" y="150" font-size="48" font-weight="700" fill="white">Eswar Kumar Prajapati</text>
+<text x="82" y="197" font-size="29" fill="#d7eafb">Data Engineer | Azure &amp; AWS</text>
+<text x="82" y="244" font-size="21" fill="#b8d6e8">Lakehouse engineering  /  Data integration  /  DevOps</text>
+<text x="82" y="280" font-size="18" fill="#71efe0">INDIA  ·  OPEN TO RELOCATION &amp; INTERNATIONAL OPPORTUNITIES</text></g></svg>
