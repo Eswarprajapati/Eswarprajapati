@@ -2,11 +2,11 @@
 
 <p align="center">
 <a href="mailto:parjapateswar1@gmail.com"><img alt="Email Eswar" src="https://img.shields.io/badge/EMAIL-Contact_me-1674AE?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" /></a>
-<a href="tel:+917981023756"><img alt="Call Eswar" src="https://img.shields.io/badge/PHONE-Let%27s_talk-168570?style=for-the-badge" /></a>
+<a href="#contact"><img alt="Phone contact details" src="https://img.shields.io/badge/PHONE-Let%27s_talk-168570?style=for-the-badge" /></a>
 <a href="https://www.linkedin.com/in/prajapati-eswar-kumar-396123170"><img alt="Connect on LinkedIn" src="https://img.shields.io/badge/LINKEDIN-Connect-0A66C2?style=for-the-badge" /></a>
 </p>
 
-<p align="center"><b><a href="mailto:parjapateswar1@gmail.com">parjapateswar1@gmail.com</a> &nbsp; · &nbsp; <a href="tel:+917981023756">+91 79810 23756</a></b><br/>India · Open to relocation · Data Engineer / Senior Data Engineer opportunities</p>
+<p align="center"><b><a href="mailto:parjapateswar1@gmail.com">parjapateswar1@gmail.com</a> &nbsp; · &nbsp; +91 79810 23756</b><br/>India · Open to relocation · Data Engineer / Senior Data Engineer opportunities</p>
 
 <p align="center"><a href="#featured-projects">Projects</a> &nbsp; / &nbsp; <a href="#technical-toolkit">Technical toolkit</a> &nbsp; / &nbsp; <a href="#experience">Experience</a> &nbsp; / &nbsp; <a href="#contact">Contact</a></p>
 
@@ -120,6 +120,6 @@ ETL/ELT and ADF integration · Airflow on Docker/Kubernetes · Terraform and Azu
 Interested in a data engineer who connects pipelines, platforms and delivery? I’m open to **Data Engineer and Senior Data Engineer roles in India and internationally**, including relocation.
 
 - **Email:** [parjapateswar1@gmail.com](mailto:parjapateswar1@gmail.com)
-- **Phone:** [+91 79810 23756](tel:+917981023756)
+- **Phone:** +91 79810 23756
 - **LinkedIn:** [Eswar Kumar Prajapati](https://www.linkedin.com/in/prajapati-eswar-kumar-396123170)
 - **Location:** India · Open to relocation
