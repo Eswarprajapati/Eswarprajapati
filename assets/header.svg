@@ -1,15 +1,19 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="360" viewBox="0 0 1000 360" role="img" aria-label="Eswar Kumar Prajapati, Data Engineer, Azure and AWS, open to opportunities in India and internationally">
-<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0d1830"/><stop offset=".6" stop-color="#173454"/><stop offset="1" stop-color="#183447"/></linearGradient><linearGradient id="line"><stop stop-color="#55c6ff"/><stop offset="1" stop-color="#67e8cf"/></linearGradient></defs>
-<rect width="1000" height="360" rx="18" fill="url(#bg)"/>
-<g stroke="#345573" fill="none" opacity=".4"><path d="M560 0v360M610 0v360M660 0v360M710 0v360M760 0v360M810 0v360M860 0v360M910 0v360M960 0v360M560 40h440M560 90h440M560 140h440M560 190h440M560 240h440M560 290h440"/></g>
-<rect x="40" y="40" width="44" height="4" rx="2" fill="#67e8cf"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="455" viewBox="0 0 1100 455" role="img" aria-label="Eswar Kumar Prajapati, Data Engineer: SFTP and MongoDB ingestion through ADF, Python SQL and PySpark, Delta Lake Unity Catalog, Snowflake, orchestration and DevOps">
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0d1830"/><stop offset=".6" stop-color="#173454"/><stop offset="1" stop-color="#183447"/></linearGradient></defs>
+<rect width="1100" height="455" rx="18" fill="url(#bg)"/>
+<g stroke="#345573" fill="none" opacity=".4"><path d="M620 0v455M670 0v455M720 0v455M770 0v455M820 0v455M870 0v455M920 0v455M970 0v455M1020 0v455M620 40h480M620 90h480M620 140h480M620 190h480M620 240h480M620 290h480M620 340h480M620 390h480"/></g>
+<rect x="40" y="54" width="44" height="4" rx="2" fill="#67e8cf"/>
 <g font-family="Segoe UI,Arial,sans-serif">
-<text x="99" y="48" font-size="15" font-weight="700" letter-spacing="2.5" fill="#8dd9ef">DATA ENGINEERING PORTFOLIO</text>
-<text x="40" y="112" font-size="41" font-weight="700" fill="#fff">Eswar Kumar Prajapati</text>
-<text x="40" y="160" font-size="29" font-weight="600" fill="#67e8cf">Data Engineer</text>
-<text x="40" y="198" font-size="20" fill="#d8e5f2">From raw data to reliable analytics.</text>
-<g font-size="15" font-weight="700"><rect x="40" y="225" width="99" height="34" rx="17" fill="#164d73"/><text x="62" y="247" fill="#8edcff">AZURE</text><rect x="151" y="225" width="83" height="34" rx="17" fill="#624127"/><text x="174" y="247" fill="#ffcf95">AWS</text><rect x="246" y="225" width="138" height="34" rx="17" fill="#25495c"/><text x="266" y="247" fill="#a6eedb">DATABRICKS</text><rect x="396" y="225" width="117" height="34" rx="17" fill="#393a63"/><text x="417" y="247" fill="#d5c9ff">DEVOPS</text></g>
-<text x="40" y="308" font-size="16" fill="#b3c6d8">INDIA  /  OPEN TO RELOCATION &amp; INTERNATIONAL ROLES</text>
-<g font-weight="600"><rect x="676" y="58" width="270" height="61" rx="12" fill="#173a5a" stroke="#4baee1"/><text x="699" y="84" font-size="13" fill="#8edcff">01 / INGEST</text><text x="699" y="106" font-size="18" fill="white">ADF · S3 · Events</text><rect x="676" y="146" width="270" height="61" rx="12" fill="#1b444c" stroke="#52c7b0"/><text x="699" y="172" font-size="13" fill="#83e8d1">02 / TRANSFORM</text><text x="699" y="194" font-size="18" fill="white">PySpark · Delta Lake</text><rect x="676" y="234" width="270" height="61" rx="12" fill="#36344e" stroke="#a394df"/><text x="699" y="260" font-size="13" fill="#c9baff">03 / ORCHESTRATE &amp; DELIVER</text><text x="699" y="282" font-size="18" fill="white">Airflow · Terraform · CI/CD</text></g></g>
-<path d="M811 119v27m-5-7 5 7 5-7M811 207v27m-5-7 5 7 5-7" fill="none" stroke="#67e8cf" stroke-width="2"/>
-</svg>
+<text x="99" y="62" font-size="15" font-weight="700" letter-spacing="2.5" fill="#8dd9ef">DATA ENGINEERING PORTFOLIO</text>
+<text x="40" y="132" font-size="41" font-weight="700" fill="#fff">Eswar Kumar Prajapati</text>
+<text x="40" y="184" font-size="29" font-weight="600" fill="#67e8cf">Data Engineer</text>
+<text x="40" y="225" font-size="20" fill="#d8e5f2">From source systems to trusted analytics.</text>
+<g font-size="15" font-weight="700"><rect x="40" y="259" width="99" height="34" rx="17" fill="#164d73"/><text x="62" y="281" fill="#8edcff">AZURE</text><rect x="151" y="259" width="83" height="34" rx="17" fill="#624127"/><text x="174" y="281" fill="#ffcf95">AWS</text><rect x="246" y="259" width="138" height="34" rx="17" fill="#25495c"/><text x="266" y="281" fill="#a6eedb">DATABRICKS</text><rect x="396" y="259" width="140" height="34" rx="17" fill="#174a68"/><text x="414" y="281" fill="#9bdfff">SNOWFLAKE</text><rect x="40" y="305" width="147" height="34" rx="17" fill="#393a63"/><text x="60" y="327" fill="#d5c9ff">AZURE DEVOPS</text></g>
+<text x="40" y="386" font-size="16" fill="#b3c6d8">INDIA / OPEN TO RELOCATION</text><text x="40" y="412" font-size="16" fill="#b3c6d8">DATA ENGINEER &amp; SENIOR OPPORTUNITIES WORLDWIDE</text>
+<g font-weight="600">
+<rect x="652" y="28" width="404" height="86" rx="12" fill="#173a5a" stroke="#4baee1"/><text x="674" y="53" font-size="14" fill="#8edcff">01 / SOURCES &amp; INGESTION</text><text x="674" y="80" font-size="20" fill="white">SFTP · MongoDB · Azure SQL</text><text x="674" y="103" font-size="18" fill="#d4e6f3">PostgreSQL · S3 · Events / ADF</text>
+<rect x="652" y="134" width="404" height="86" rx="12" fill="#1b444c" stroke="#52c7b0"/><text x="674" y="159" font-size="14" fill="#83e8d1">02 / TRANSFORM &amp; GOVERN</text><text x="674" y="186" font-size="20" fill="white">Python · SQL · PySpark</text><text x="674" y="209" font-size="18" fill="#d4e6f3">Delta Lake · Unity Catalog</text>
+<rect x="652" y="240" width="404" height="72" rx="12" fill="#16445c" stroke="#70c8e5"/><text x="674" y="265" font-size="14" fill="#97e3fa">03 / WAREHOUSE &amp; ANALYTICS</text><text x="674" y="294" font-size="20" fill="white">Snowflake · SQL tuning · Power BI</text>
+<rect x="652" y="332" width="404" height="93" rx="12" fill="#36344e" stroke="#a394df"/><text x="674" y="357" font-size="14" fill="#c9baff">04 / ORCHESTRATE, AUTOMATE &amp; DELIVER</text><text x="674" y="384" font-size="20" fill="white">Airflow · ADF · Databricks Jobs*</text><text x="674" y="408" font-size="18" fill="#d4e6f3">Terraform · Azure DevOps · CI/CD</text>
+</g><text x="674" y="445" font-size="12" fill="#a5bdd0">* Databricks Jobs demonstrated in the portfolio bundle</text></g>
+<path d="M854 114v20m-5-7 5 7 5-7M854 220v20m-5-7 5 7 5-7M854 312v20m-5-7 5 7 5-7" fill="none" stroke="#67e8cf" stroke-width="2"/></svg>
