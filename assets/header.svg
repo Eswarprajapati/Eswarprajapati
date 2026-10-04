@@ -15,5 +15,5 @@
 <rect x="652" y="134" width="404" height="86" rx="12" fill="#1b444c" stroke="#52c7b0"/><text x="674" y="159" font-size="14" fill="#83e8d1">02 / TRANSFORM &amp; GOVERN</text><text x="674" y="186" font-size="20" fill="white">Python · SQL · PySpark</text><text x="674" y="209" font-size="18" fill="#d4e6f3">Delta Lake · Unity Catalog</text>
 <rect x="652" y="240" width="404" height="72" rx="12" fill="#16445c" stroke="#70c8e5"/><text x="674" y="265" font-size="14" fill="#97e3fa">03 / WAREHOUSE &amp; ANALYTICS</text><text x="674" y="294" font-size="20" fill="white">Snowflake · SQL tuning · Power BI</text>
 <rect x="652" y="332" width="404" height="93" rx="12" fill="#36344e" stroke="#a394df"/><text x="674" y="357" font-size="14" fill="#c9baff">04 / ORCHESTRATE, AUTOMATE &amp; DELIVER</text><text x="674" y="384" font-size="20" fill="white">Airflow · ADF · Databricks Jobs*</text><text x="674" y="408" font-size="18" fill="#d4e6f3">Terraform · Azure DevOps · CI/CD</text>
-</g><text x="674" y="445" font-size="12" fill="#a5bdd0">* Databricks Jobs demonstrated in the portfolio bundle</text></g>
+</g><text x="674" y="445" font-size="12" fill="#a5bdd0">* </text></g>
 <path d="M854 114v20m-5-7 5 7 5-7M854 220v20m-5-7 5 7 5-7M854 312v20m-5-7 5 7 5-7" fill="none" stroke="#67e8cf" stroke-width="2"/></svg>
